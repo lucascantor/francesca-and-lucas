@@ -1,6 +1,6 @@
 # francesca-and-lucas.com
 
-Version history of [francesca-and-lucas.com](https://francesca-and-lucas.com) hosted on S3 behind CloudFront
+Version history of [francesca-and-lucas.com](https://francesca-and-lucas.com) on GitHub Pages
 
 ## Contributing workflow
 
